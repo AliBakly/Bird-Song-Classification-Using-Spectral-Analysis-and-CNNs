@@ -1,0 +1,11 @@
+setup.py
+src/birdsong_classification/__init__.py
+src/birdsong_classification/predict.py
+src/birdsong_classification.egg-info/PKG-INFO
+src/birdsong_classification.egg-info/SOURCES.txt
+src/birdsong_classification.egg-info/dependency_links.txt
+src/birdsong_classification.egg-info/requires.txt
+src/birdsong_classification.egg-info/top_level.txt
+src/birdsong_classification/utils/__init__.py
+src/birdsong_classification/utils/path_utils.py
+src/birdsong_classification/utils/visualization.py

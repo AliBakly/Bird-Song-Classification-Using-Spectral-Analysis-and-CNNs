@@ -16,9 +16,6 @@
     - [4. Evaluating the Model](#4-evaluating-the-model)
     - [5. Making Predictions](#5-making-predictions)
 5. [Results](#results)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
 
 ---
 
@@ -37,8 +34,8 @@ The classification process involves two main components:
 
 This approach leverages signal processing techniques in MATLAB to prepare the data, followed by machine learning methodologies in Python to achieve high classification accuracy.
 
-*Image here*
----
+![image](https://github.com/user-attachments/assets/3287509d-9091-4f10-87e0-fe9c490cd174)
+
 
 ## Directory Structure
 
@@ -129,7 +126,6 @@ birdsong-classification/
 ## Installation
 
 ### MATLAB Setup
-*See the MATLAB documentation for more details.*
 
 **Prerequisites:**
 
@@ -160,7 +156,6 @@ birdsong-classification/
 ---
 
 ### Python Setup
-*See the Python documentation for more details.*
 
 **Prerequisites:**
 
@@ -214,6 +209,7 @@ birdsong-classification/
 ## Usage
 
 ### 1. Preprocessing with MATLAB
+*See the [MATLAB documentation](https://github.com/AliBakly/Bird-Song-Classification-Using-Spectral-Analysis-and-CNNs/tree/main/matlab) for more details.*
 
 **Steps:**
 
@@ -258,13 +254,13 @@ birdsong-classification/
        ```
      - This launches the `SyllablePlayer` UI, allowing you to play and inspect extracted syllables.
 
-*Include a screenshot of the SyllablePlayer UI if available.*
+![image](https://github.com/user-attachments/assets/3631b3c9-ca24-4425-a7d8-d796a8ffda75)
 
-![SyllablePlayer UI](docs/images/syllable_player_ui.png)
 
 ---
 
 ### 2. Data Preparation with Python
+*See the [Python documentation](https://github.com/AliBakly/Bird-Song-Classification-Using-Spectral-Analysis-and-CNNs/tree/main/python) for more details.*
 
 **Steps:**
 
@@ -385,7 +381,7 @@ The project achieved a high classification accuracy of **96.31%** using the foll
 
 **Confusion Matrix:**
 
-![Confusion Matrix](docs/images/confusion_matrix.png)
+![image](https://github.com/user-attachments/assets/7ff1e1ce-05f0-4bd3-bd4f-5560522aeb2c)
 
 *Interpretation:*
 
@@ -395,7 +391,7 @@ The project achieved a high classification accuracy of **96.31%** using the foll
 
 **Training History:**
 
-![Training History](docs/images/training_history.png)
+![image](https://github.com/user-attachments/assets/d9eb16df-9071-4eed-a430-d69958a59337)
 
 *The training and validation accuracy steadily increased, while the loss decreased, indicating effective learning without significant overfitting.*
 

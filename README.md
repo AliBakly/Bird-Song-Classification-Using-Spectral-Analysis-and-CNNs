@@ -138,7 +138,7 @@ birdsong-classification/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/birdsong-classification.git
+   git clone https://github.com/AliBakly/Bird-Song-Classification-Using-Spectral-Analysis-and-CNNs.git
    ```
 
 2. **Navigate to the MATLAB Directory:**
@@ -167,7 +167,7 @@ birdsong-classification/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/birdsong-classification.git
+   git clone https://github.com/AliBakly/Bird-Song-Classification-Using-Spectral-Analysis-and-CNNs.git
    ```
 
 2. **Navigate to the Python Directory:**

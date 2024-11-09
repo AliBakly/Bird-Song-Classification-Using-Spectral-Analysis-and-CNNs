@@ -90,12 +90,6 @@ The MATLAB component of the Birdsong Classification project processes raw audio 
     ```
   - This launches the `SyllablePlayer` UI, allowing you to play and inspect extracted syllables.
 
-*Optional: Add a screenshot of the SyllablePlayer UI.*
-
-![SyllablePlayer UI](docs/images/syllable_player_ui.png)
-
-*Replace `docs/images/syllable_player_ui.png` with your actual image path.*
-
 ## 5. Function Overview
 
 ### **Main Scripts:**

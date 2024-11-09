@@ -34,7 +34,7 @@ The classification process involves two main components:
 
 This approach leverages signal processing techniques in MATLAB to prepare the data, followed by machine learning methodologies in Python to achieve high classification accuracy.
 
-![image](https://github.com/user-attachments/assets/3287509d-9091-4f10-87e0-fe9c490cd174)
+<img src="https://github.com/user-attachments/assets/3287509d-9091-4f10-87e0-fe9c490cd174" width="700">
 
 
 ## Directory Structure
@@ -254,7 +254,7 @@ birdsong-classification/
        ```
      - This launches the `SyllablePlayer` UI, allowing you to play and inspect extracted syllables.
 
-![image](https://github.com/user-attachments/assets/3631b3c9-ca24-4425-a7d8-d796a8ffda75)
+<img src="https://github.com/user-attachments/assets/3631b3c9-ca24-4425-a7d8-d796a8ffda75" width="700">
 
 
 ---
@@ -381,17 +381,17 @@ The project achieved a high classification accuracy of **96.31%** using the foll
 
 **Confusion Matrix:**
 
-![image](https://github.com/user-attachments/assets/7ff1e1ce-05f0-4bd3-bd4f-5560522aeb2c)
+<img src="https://github.com/user-attachments/assets/7ff1e1ce-05f0-4bd3-bd4f-5560522aeb2c" width="700">
 
 *Interpretation:*
 
-- **Common Chaffinch:** 98% accurately classified.
+- **Common Chaffinch:** 93% accurately classified.
 - **House Sparrow:** 100% accurately classified.
-- **Eurasian Blue Tit:** 95% accurately classified.
+- **Eurasian Blue Tit:** 96% accurately classified.
 
 **Training History:**
 
-![image](https://github.com/user-attachments/assets/d9eb16df-9071-4eed-a430-d69958a59337)
+<img src="https://github.com/user-attachments/assets/d9eb16df-9071-4eed-a430-d69958a59337" width="1000">
 
 *The training and validation accuracy steadily increased, while the loss decreased, indicating effective learning without significant overfitting.*
 
